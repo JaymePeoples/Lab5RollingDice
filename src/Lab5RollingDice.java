@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
 /**
- * Created by Espanol 2 on 6/29/2017.
+ * Created by Jayme Peoples on 6/29/2017.
  */
 public class Lab5RollingDice {
     public static void main(String[] args) {
-        
+
         int sides;
         String userChoice = " ";
         Scanner scnr = new Scanner(System.in);
